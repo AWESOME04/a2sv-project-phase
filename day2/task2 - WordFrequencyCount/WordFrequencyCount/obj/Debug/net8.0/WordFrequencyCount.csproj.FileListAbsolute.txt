@@ -1,0 +1,14 @@
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\bin\Debug\net8.0\WordFrequencyCount.exe
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\bin\Debug\net8.0\WordFrequencyCount.deps.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\bin\Debug\net8.0\WordFrequencyCount.runtimeconfig.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\bin\Debug\net8.0\WordFrequencyCount.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\bin\Debug\net8.0\WordFrequencyCount.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.AssemblyInfoInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.AssemblyInfo.cs
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.csproj.CoreCompileInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\refint\WordFrequencyCount.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\WordFrequencyCount.genruntimeconfig.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\WordFrequencyCount\obj\Debug\net8.0\ref\WordFrequencyCount.dll
