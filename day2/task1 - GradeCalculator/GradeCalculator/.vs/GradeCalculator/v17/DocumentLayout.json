@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\GradeCalculator\\GradeCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF0BBA6-017F-4F70-A224-0EC250D66F6A}|GradeCalculator.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\gradecalculator\\gradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF0BBA6-017F-4F70-A224-0EC250D66F6A}|GradeCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\GradeCalculator\\GradeCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\GradeCalculator\\GradeCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:15:06.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
