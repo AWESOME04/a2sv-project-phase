@@ -2,7 +2,7 @@ namespace ShapeHierarchy
 {
     public class Shape
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
         public virtual double CalculateArea()
         {
@@ -10,7 +10,7 @@ namespace ShapeHierarchy
         }
     }
 
-    public class Circle: Shape
+    public class Circle : Shape
     {
         public double Radius { get; set; }
 
@@ -20,7 +20,7 @@ namespace ShapeHierarchy
         }
     }
 
-    public class Rectangle: Shape
+    public class Rectangle : Shape
     {
         public double Width { get; set; }
         public double Height { get; set; }
@@ -31,7 +31,7 @@ namespace ShapeHierarchy
         }
     }
 
-    public class Triangle: Shape
+    public class Triangle : Shape
     {
         public double Base { get; set; }
         public double Height { get; set; }
@@ -48,14 +48,14 @@ namespace ShapeHierarchy
         public static void PrintShapeArea(Shape shape)
         {
             Console.WriteLine($"Name of the Shape: {shape.Name}");
-            Console.WriteLine($"The area of the {shape.Name} is: {shape.CalculateArea()}");
+            Console.WriteLine($"The area of the {shape.Name} is: {Math.Round(shape.CalculateArea(), 2)}");
             Console.WriteLine("");
         }
         static void Main(string[] args)
         {
-            Circle circle = new Circle() { Name="Circle", Radius=5};
-            Rectangle rectangle = new Rectangle() { Name="Rectangle", Height=2, Width=3};
-            Triangle triangle = new Triangle() { Name="Triangle", Base=2, Height=4};
+            Circle circle = new Circle() { Name = "Circle", Radius = 5 };
+            Rectangle rectangle = new Rectangle() { Name = "Rectangle", Height = 2, Width = 3 };
+            Triangle triangle = new Triangle() { Name = "Triangle", Base = 2, Height = 4 };
 
             PrintShapeArea(circle);
             PrintShapeArea(rectangle);
