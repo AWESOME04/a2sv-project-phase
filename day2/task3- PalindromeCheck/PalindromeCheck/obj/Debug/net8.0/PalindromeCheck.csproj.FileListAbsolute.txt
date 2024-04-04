@@ -1,0 +1,14 @@
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.exe
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.deps.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.runtimeconfig.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\refint\PalindromeCheck.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.genruntimeconfig.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\PalindromeCheck\obj\Debug\net8.0\ref\PalindromeCheck.dll
