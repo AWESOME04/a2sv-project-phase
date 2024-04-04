@@ -1,0 +1,14 @@
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\bin\Debug\net8.0\ShapeHierarchy.exe
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\bin\Debug\net8.0\ShapeHierarchy.deps.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\bin\Debug\net8.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\bin\Debug\net8.0\ShapeHierarchy.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\bin\Debug\net8.0\ShapeHierarchy.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\refint\ShapeHierarchy.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\ShapeHierarchy\obj\Debug\net8.0\ref\ShapeHierarchy.dll
