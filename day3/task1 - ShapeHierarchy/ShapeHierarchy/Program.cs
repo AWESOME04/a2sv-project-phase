@@ -1,8 +1,8 @@
-﻿namespace ShapeHierarchy
+namespace ShapeHierarchy
 {
     public class Shape
     {
-        public required string Name { get; set; }
+        public string Name { get; set; }
 
         public virtual double CalculateArea()
         {
@@ -49,6 +49,7 @@
         {
             Console.WriteLine($"Name of the Shape: {shape.Name}");
             Console.WriteLine($"The area of the {shape.Name} is: {shape.CalculateArea()}");
+            Console.WriteLine("");
         }
         static void Main(string[] args)
         {
@@ -57,7 +58,7 @@
             Triangle triangle = new Triangle() { Name="Triangle", Base=2, Height=4};
 
             PrintShapeArea(circle);
-            PrintShapeArea((Rectangle)rectangle);
+            PrintShapeArea(rectangle);
             PrintShapeArea(triangle);
 
         }
