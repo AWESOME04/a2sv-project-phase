@@ -1,35 +1,39 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 class WordFrequencyCount
 {
-    static void Main()
+    static Dictionary<string, int> CalcWordFreq(string str)
     {
-        Console.WriteLine("Enter a word: ");
-        string word = Console.ReadLine();
-
-        Dictionary<char, int> counter = new Dictionary<char, int>();
-
-        foreach (char c in word.ToLower())
+        Dictionary<string, int> hash = new Dictionary<string, int> ();
+        string[] words = str.Split (' ');
+        foreach (string word in words)
         {
-            if (char.IsLetter(c))
+            if (hash.ContainsKey(word))
             {
-                if (counter.ContainsKey(c))
-                {
-                    counter[c]++;
-                }
-                else
-                {
-                    counter[c] = 1;
-                }
+                hash[word] ++;
             }
+            else
+            {
+                hash.Add(word, 1);
+            }
+            
         }
 
-        Console.WriteLine("{");
-        foreach (var kvp in counter)
+        return hash;
+    }
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Enter a sentence: ");
+        string sentence = Console.ReadLine();
+        
+        Dictionary<string, int> hash = CalcWordFreq(sentence);
+        foreach (KeyValuePair<string, int> kvp in hash)
         {
-            Console.WriteLine($" '{kvp.Key}': {kvp.Value},");
+            Console.WriteLine($"Word: {kvp.Key},  Count: {kvp.Value}");
+
         }
-        Console.WriteLine("}");
+        
+
     }
 }
