@@ -1,0 +1,14 @@
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
