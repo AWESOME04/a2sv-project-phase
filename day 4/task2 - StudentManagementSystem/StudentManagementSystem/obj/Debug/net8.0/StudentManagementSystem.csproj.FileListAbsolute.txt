@@ -1,0 +1,14 @@
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\Snave\Desktop\COMP. ENG\UNI STUFF\PROJECTS & EXTRACIRRICULARS\Roadmap to Tech companies\A2SV Resources\A2SV Project Phase\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
