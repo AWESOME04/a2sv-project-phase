@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 public enum TaskCategory
 {
@@ -40,7 +41,7 @@ public class TaskManagement
     {
         foreach (var task in tasks)
         {
-            Console.WriteLine($"{task.Name},{task.Description},{task.Category},{task.IsCompleted}");
+            Console.WriteLine($"{task.Name}, {task.Description}, {task.Category}, {task.IsCompleted}");
         }
     }
 
@@ -60,17 +61,21 @@ public class TaskManagement
     {
         try
         {
+            StringBuilder csvContent = new StringBuilder();
+            foreach (var task in tasks)
+            {
+                csvContent.AppendLine($"{task.Name}, {task.Description}, {task.Category}, {task.IsCompleted}");
+            }
+
             using (StreamWriter writer = new StreamWriter(filePath))
             {
-                foreach (var task in tasks)
-                {
-                    await writer.WriteLineAsync($"{task.Name},{task.Description},{task.Category},{task.IsCompleted}");
-                }
+                await writer.WriteAsync(csvContent.ToString());
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error while trying to save tasks to {filePath}: {ex.Message}");
+            Console.WriteLine($"Error while trying to save tasks to: {ex.Message}");
+
         }
     }
 
@@ -78,26 +83,36 @@ public class TaskManagement
     {
         try
         {
+            tasks.Clear();
             using (StreamReader reader = new StreamReader(filePath))
             {
                 string line;
                 while ((line = await reader.ReadLineAsync()) != null)
                 {
                     string[] parts = line.Split(',');
-                    TaskItem task = new TaskItem
+                    if (parts.Length >= 4)
                     {
-                        Name = parts[0],
-                        Description = parts[1],
-                        Category = (TaskCategory)Enum.Parse(typeof(TaskCategory), parts[2]),
-                        IsCompleted = bool.Parse(parts[3])
-                    };
-                    tasks.Add(task);
+                        TaskItem task = new TaskItem
+                        {
+                            Name = parts[0],
+                            Description = parts[1],
+                            Category = (TaskCategory)Enum.Parse(typeof(TaskCategory), parts[2]),
+                            IsCompleted = bool.Parse(parts[3])
+                        };
+                        tasks.Add(task);
+
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Invalid line format in CSV: {line}");
+                    }
+
                 }
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error trying to load tasks from {filePath}: {ex.Message} ");
+            Console.WriteLine($"Error trying to load tasks from: {ex.Message} ");
         }
     }
 }
@@ -149,12 +164,19 @@ class TaskManager
         Console.WriteLine("\nYour Work tasks:");
         taskManagement.ViewTasksByCategory(TaskCategory.Work);
 
-        string filePath = "tasksFilePath.csv";
-        await taskManagement.SaveTasks(filePath);
-        Console.WriteLine($"\nTasks saved to {filePath}");
+        string filePath1 = "C:\\Users\\Snave\\Downloads\\Telegram Desktop\\tasks.csv";
+        await taskManagement.SaveTasks(filePath1);
+        Console.WriteLine($"\nTasks saved to {filePath1}");
 
-        await taskManagement.LoadTasks(filePath);
-        Console.WriteLine("\nTasks loaded from file:");
+        await taskManagement.LoadTasks(filePath1);
+        Console.WriteLine($"\nTasks loaded from file: {filePath1}");
+
+        // Loading from an Invalid file path(non-existent)
+        //string filePath2 = "C:\\Users\\Snave\\Downloads\\Telegram Desktop\\tasks.txt";
+        //await taskManagement.LoadTasks(filePath2);
+        //Console.WriteLine($"\nTasks loaded from file: {filePath2}");
+
         taskManagement.ViewTasks();
+
     }
 }
