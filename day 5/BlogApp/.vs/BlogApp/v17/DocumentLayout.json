@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\postdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\postdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\editpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\editpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\services\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\services\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\services\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\services\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\models\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\models\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapptests\\commentmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|solutionrelative:blogapptests\\commentmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\migrations\\20240410193353_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240410193353_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapptests\\postmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|solutionrelative:blogapptests\\postmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapptests\\databasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|solutionrelative:blogapptests\\databasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapptests\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|solutionrelative:blogapptests\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapptests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DEA883-2B68-4850-915A-4D2E5325A60B}|BlogAppTests\\BlogAppTests.csproj|solutionrelative:blogapptests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|c:\\users\\snave\\desktop\\comp. eng\\uni stuff\\projects \u0026 extracirriculars\\roadmap to tech companies\\a2sv resources\\a2sv project phase\\blogapp\\blogapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C793800-C0B0-4DEA-B3AE-D18E43F4CCEA}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\EditPost.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\EditPost.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\EditPost.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\EditPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:21:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T20:50:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\PostDetails.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\PostDetails.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\PostDetails.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\PostDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T20:52:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeToolTip": "BlogApp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:23:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Startup.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Startup.cs",
+              "RelativeToolTip": "BlogApp\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:30:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\EditComment.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\EditComment.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\EditComment.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\EditComment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T23:03:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\CreatePost.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\CreatePost.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\CreatePost.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\CreatePost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T20:52:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostManager.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Services\\PostManager.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Services\\PostManager.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Services\\PostManager.cs",
+              "RelativeToolTip": "BlogApp\\Services\\PostManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:37:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Services\\CommentManager.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Services\\CommentManager.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Services\\CommentManager.cs",
+              "RelativeToolTip": "BlogApp\\Services\\CommentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:27:58.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\PostEntity.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\PostEntity.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\PostEntity.cs",
+              "RelativeToolTip": "BlogApp\\Models\\PostEntity.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:12:42.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BlogApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:34:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\CommentEntity.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\CommentEntity.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Models\\CommentEntity.cs",
+              "RelativeToolTip": "BlogApp\\Models\\CommentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:13:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlogApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:15:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv5EAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:44:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\CommentManagerTests.cs",
+              "RelativeDocumentMoniker": "BlogAppTests\\CommentManagerTests.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\CommentManagerTests.cs",
+              "RelativeToolTip": "BlogAppTests\\CommentManagerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:42:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T22:38:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240410193353_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Migrations\\20240410193353_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240410193353_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Migrations\\20240410193353_InitialCreate.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240410193353_InitialCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:33:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\PostManagerTests.cs",
+              "RelativeDocumentMoniker": "BlogAppTests\\PostManagerTests.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\PostManagerTests.cs",
+              "RelativeToolTip": "BlogAppTests\\PostManagerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:45:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\DatabaseCollection.cs",
+              "RelativeDocumentMoniker": "BlogAppTests\\DatabaseCollection.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\DatabaseCollection.cs",
+              "RelativeToolTip": "BlogAppTests\\DatabaseCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:11:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseFixture.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\DatabaseFixture.cs",
+              "RelativeDocumentMoniker": "BlogAppTests\\DatabaseFixture.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\DatabaseFixture.cs",
+              "RelativeToolTip": "BlogAppTests\\DatabaseFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:10:55.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BlogAppTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\UnitTest1.cs",
+              "RelativeToolTip": "BlogAppTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:40:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:34:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS \u0026 EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeToolTip": "BlogApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T17:24:26.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

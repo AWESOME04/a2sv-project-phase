@@ -1,0 +1,38 @@
+﻿@model BlogApp.Models.PostEntity
+
+<div class="container">
+    <!-- Post content -->
+    <h1>@Model.Title</h1>
+    <p>@Model.Content</p>
+
+    <!-- Display comments -->
+    <h2>Comments</h2>
+    @if (Model.Comments != null && Model.Comments.Count > 0)
+    {
+        foreach (var comment in Model.Comments)
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <p class="card-text">@comment.Text</p>
+                    <a asp-action="EditComment" asp-route-commentId="@comment.CommentId" class="btn btn-secondary">Edit Comment</a>
+                    <a asp-action="DeleteComment" asp-route-commentId="@comment.CommentId" class="btn btn-danger">Delete Comment</a>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>There are no comments for this post.</p>
+    }
+
+    <!-- Add new comment form -->
+    <h2>Add Comment</h2>
+    <form asp-action="AddComment" method="post">
+        <input type="hidden" name="postId" value="@Model.PostId" />
+        <div class="form-group">
+            <label for="commentText">Comment</label>
+            <textarea class="form-control" id="commentText" name="commentText" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit Comment</button>
+    </form>
+</div>

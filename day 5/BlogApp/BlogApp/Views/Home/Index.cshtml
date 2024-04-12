@@ -1,0 +1,19 @@
+﻿@model List<BlogApp.Models.PostEntity>
+
+<div class="container">
+    <h1>Blog Posts</h1>
+    <a asp-action="CreatePost" class="btn btn-primary">Create Post</a>
+
+    @foreach (var post in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">@post.Title</h5>
+                <p class="card-text">@post.Content.Substring(0, Math.Min(post.Content.Length, 100))...</p>
+                <a asp-action="PostDetails" asp-route-id="@post.PostId" class="btn btn-primary">View Post</a>
+                <a asp-action="EditPost" asp-route-id="@post.PostId" class="btn btn-secondary">Edit Post</a>
+                <a asp-action="DeletePost" asp-route-id="@post.PostId" class="btn btn-danger">Delete Post</a>
+            </div>
+        </div>
+    }
+</div>

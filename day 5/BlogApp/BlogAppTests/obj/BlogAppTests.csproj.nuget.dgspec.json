@@ -1,0 +1,179 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\BlogAppTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\BlogAppTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\BlogAppTests.csproj",
+        "projectName": "BlogAppTests",
+        "projectPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\BlogAppTests.csproj",
+        "packagesPath": "C:\\Users\\Snave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogAppTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Snave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\BlogApp.csproj": {
+                "projectPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\BlogApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\BlogApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "projectName": "BlogApp",
+        "projectPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "packagesPath": "C:\\Users\\Snave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Snave\\Desktop\\COMP. ENG\\UNI STUFF\\PROJECTS & EXTRACIRRICULARS\\Roadmap to Tech companies\\A2SV Resources\\A2SV Project Phase\\BlogApp\\BlogApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Snave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

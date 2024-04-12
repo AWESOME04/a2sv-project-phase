@@ -1,0 +1,17 @@
+﻿@model BlogApp.Models.PostEntity
+
+<div class="container">
+    <h1>Edit Post</h1>
+    <form asp-action="UpdatePost" method="post">
+        <input type="hidden" name="id" value="@Model.PostId" />
+        <div class="form-group">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" name="title" value="@Model.Title" required>
+        </div>
+        <div class="form-group">
+            <label for="content">Content</label>
+            <textarea class="form-control" id="content" name="content" rows="3" required>@Model.Content</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+    </form>
+</div>
